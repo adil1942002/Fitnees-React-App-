@@ -1,0 +1,7 @@
+.hover{
+    text-decoration: none;
+    color: white;
+}
+.hover:hover{
+    color: red;
+}

@@ -1,0 +1,41 @@
+.img1{
+    background-image: url('../../../public/images/gallery1.png.webp');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img2 {
+    background-image: url('../../../public/images/istockphoto-615883260-612x612.jpg');
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.img3 {
+    background-image: url('../../../public/images/360_F_189741513_VVidINOxRfACG5H3kypVufaGMbFjBq7X.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+
+}
+.img4 {
+    background-image: url('../../../public/images/stock-photo-brutal-strong-bodybuilder-athletic-man-pumping-up-muscles-workout-bodybuilding-concept-background-1277705647.jpg');
+    height: 340px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+
+}
+.img5 {
+    background-image: url('../../../public/images/47694206-guy-bodybuilder-tired-in-gym-and-listen-music-with-headset.jpg');
+    height: 340px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+
+}

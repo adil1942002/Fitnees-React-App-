@@ -1,0 +1,16 @@
+.main5{
+    background-image: url("../../../public/images/blog1.png.webp");
+    width: 100%;
+    min-height:100vh ;
+    height: fit-content;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.footer{
+    background-color: rgba(1, 1, 1, 0.7);
+    width: 100%;
+        min-height: 100vh;
+        height: fit-content;
+}
